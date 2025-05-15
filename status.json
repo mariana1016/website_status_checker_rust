@@ -1,9 +1,9 @@
 [
   {
-    "error": "Request error: error sending request for url (https://this-site-does-not-exist.com/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
-    "response_time_ms": 153,
-    "status_code": null,
-    "timestamp": "SystemTime { tv_sec: 1747278832, tv_nsec: 387607827 }",
-    "url": "https://this-site-does-not-exist.com"
+    "error": null,
+    "response_time_ms": 132,
+    "status_code": 200,
+    "timestamp": "SystemTime { tv_sec: 1747279065, tv_nsec: 663857827 }",
+    "url": "https://google.com"
   }
 ]
